@@ -1,0 +1,207 @@
+{
+  "testTitle": "General Mock Examination",
+  "durationMinutes": 30,
+  "subjects": [
+    {
+      "name": "Physics",
+      "positiveMarks": 4,
+      "negativeMarks": 1,
+      "questions": [
+        {
+          "id": 1,
+          "question": "What is the SI unit of electric charge?",
+          "options": {
+            "A": "Volt",
+            "B": "Coulomb",
+            "C": "Ohm",
+            "D": "Tesla"
+          },
+          "correctAnswer": "B",
+          "explanation": "Coulomb is the SI unit of electric charge."
+        },
+        {
+          "id": 2,
+          "question": "Which law relates the current through a conductor to voltage and resistance?",
+          "options": {
+            "A": "Faraday's law",
+            "B": "Newton's law",
+            "C": "Ohm's law",
+            "D": "Hooke's law"
+          },
+          "correctAnswer": "C",
+          "explanation": "Ohm's law states that voltage equals current multiplied by resistance."
+        },
+        {
+          "id": 3,
+          "question": "What is the approximate speed of light in a vacuum?",
+          "options": {
+            "A": "3 × 10^6 m/s",
+            "B": "3 × 10^8 m/s",
+            "C": "3 × 10^10 m/s",
+            "D": "3 × 10^12 m/s"
+          },
+          "correctAnswer": "B",
+          "explanation": "The speed of light in a vacuum is approximately 3 × 10^8 metres per second."
+        },
+        {
+          "id": 4,
+          "question": "Which quantity is measured in joules?",
+          "options": {
+            "A": "Power",
+            "B": "Force",
+            "C": "Energy",
+            "D": "Pressure"
+          },
+          "correctAnswer": "C",
+          "explanation": "The joule is the SI unit of energy and work."
+        },
+        {
+          "id": 5,
+          "question": "A convex lens is also known as a:",
+          "options": {
+            "A": "Diverging lens",
+            "B": "Converging lens",
+            "C": "Cylindrical lens",
+            "D": "Plane mirror"
+          },
+          "correctAnswer": "B",
+          "explanation": "A convex lens converges parallel rays of light."
+        }
+      ]
+    },
+    {
+      "name": "Chemistry",
+      "positiveMarks": 4,
+      "negativeMarks": 1,
+      "questions": [
+        {
+          "id": 1,
+          "question": "What is the chemical symbol for sodium?",
+          "options": {
+            "A": "S",
+            "B": "So",
+            "C": "Na",
+            "D": "N"
+          },
+          "correctAnswer": "C",
+          "explanation": "Sodium's chemical symbol is Na, from the Latin name natrium."
+        },
+        {
+          "id": 2,
+          "question": "A solution with a pH of 3 is best described as:",
+          "options": {
+            "A": "Acidic",
+            "B": "Neutral",
+            "C": "Basic",
+            "D": "Saturated"
+          },
+          "correctAnswer": "A",
+          "explanation": "Solutions with pH values below 7 are acidic."
+        },
+        {
+          "id": 3,
+          "question": "How many atoms are in one molecule of water?",
+          "options": {
+            "A": "Two",
+            "B": "Three",
+            "C": "Four",
+            "D": "Five"
+          },
+          "correctAnswer": "B",
+          "explanation": "A water molecule, H2O, contains two hydrogen atoms and one oxygen atom."
+        },
+        {
+          "id": 4,
+          "question": "Which gas is released when an acid reacts with a carbonate?",
+          "options": {
+            "A": "Oxygen",
+            "B": "Hydrogen",
+            "C": "Nitrogen",
+            "D": "Carbon dioxide"
+          },
+          "correctAnswer": "D",
+          "explanation": "An acid and a carbonate produce a salt, water and carbon dioxide."
+        },
+        {
+          "id": 5,
+          "question": "Which subatomic particle has a negative electric charge?",
+          "options": {
+            "A": "Proton",
+            "B": "Neutron",
+            "C": "Electron",
+            "D": "Nucleus"
+          },
+          "correctAnswer": "C",
+          "explanation": "Electrons carry a negative electric charge."
+        }
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "positiveMarks": 4,
+      "negativeMarks": 1,
+      "questions": [
+        {
+          "id": 1,
+          "question": "What is the value of 12 squared?",
+          "options": {
+            "A": "124",
+            "B": "144",
+            "C": "132",
+            "D": "154"
+          },
+          "correctAnswer": "B",
+          "explanation": "12 squared is 12 × 12 = 144."
+        },
+        {
+          "id": 2,
+          "question": "What is the sum of the interior angles of a triangle?",
+          "options": {
+            "A": "90°",
+            "B": "180°",
+            "C": "270°",
+            "D": "360°"
+          },
+          "correctAnswer": "B",
+          "explanation": "The interior angles of every Euclidean triangle sum to 180 degrees."
+        },
+        {
+          "id": 3,
+          "question": "Solve for x: 3x + 5 = 20.",
+          "options": {
+            "A": "3",
+            "B": "4",
+            "C": "5",
+            "D": "6"
+          },
+          "correctAnswer": "C",
+          "explanation": "Subtract 5 from both sides to get 3x = 15, so x = 5."
+        },
+        {
+          "id": 4,
+          "question": "What is the area of a circle with radius r?",
+          "options": {
+            "A": "2πr",
+            "B": "πr²",
+            "C": "πd",
+            "D": "r²/2"
+          },
+          "correctAnswer": "B",
+          "explanation": "The area of a circle is π multiplied by the square of its radius."
+        },
+        {
+          "id": 5,
+          "question": "What is the probability of getting heads on one fair coin toss?",
+          "options": {
+            "A": "0",
+            "B": "1/4",
+            "C": "1/2",
+            "D": "1"
+          },
+          "correctAnswer": "C",
+          "explanation": "A fair coin has two equally likely outcomes, so the probability is 1/2."
+        }
+      ]
+    }
+  ]
+}
